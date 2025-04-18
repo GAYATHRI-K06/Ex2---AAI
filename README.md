@@ -1,7 +1,7 @@
 <H3>Enter Name:GAYATHRI K</H3>
 <H3>Enter Register No.212223230061</H3>
 <H3>Experiment 2</H3>
-<H3>Date</H3>
+<H3>Date16.04.2025</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
 ## Aim:
